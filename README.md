@@ -1,10 +1,11 @@
 # single-page-web-apps-with-angularjs
 This repository contains my coursework for the Coursera.org course [Single Page Web Apps with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs/).
 
-* View my [Module 2 Assignment](https://xander621.github.io/coursera-html-css-js-for-web-devs/module2-assignment/)
-* View my [Module 3 Assignment](https://xander621.github.io/coursera-html-css-js-for-web-devs/module3-assignment/)
-* View my [Module 4 Assignment](https://xander621.github.io/coursera-html-css-js-for-web-devs/module4-assignment/)
-* View my [Module 5 Assignment](https://xander621.github.io/coursera-html-css-js-for-web-devs/module5-assignment/)
+* View my [Module 1 Assignment](https://github.com/Xander621/single-page-web-apps-with-angularjs/module1-assignment/)
+* View my [Module 2 Assignment](https://github.com/Xander621/single-page-web-apps-with-angularjs/module2-assignment/)
+* View my [Module 3 Assignment](https://github.com/Xander621/single-page-web-apps-with-angularjs/module3-assignment/)
+* View my [Module 4 Assignment](https://github.com/Xander621/single-page-web-apps-with-angularjs/module4-assignment/)
+* View my [Module 5 Assignment](https://github.com/Xander621/single-page-web-apps-with-angularjs/module5-assignment/)
 
 # _**Tools, Documentation &amp; Useful Links**_
 
